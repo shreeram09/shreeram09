@@ -17,6 +17,7 @@
 <!--<a href="https://linkedin.com/in/shreeram-aute" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreeram-aute" height="30" width="40" /></a>-->
 <a href="https://stackoverflow.com/users/shreeramaute" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shreeramaute" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/auteshreeram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="auteshreeram" height="30" width="40" /></a>
+<a href="https://leetcode.com/shreeramaute/" target="blank"><img align="center" src="https://assets.leetcode.com/users/leetcode/avatar_1568224780.png" alt="auteshreeram" height="30" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
