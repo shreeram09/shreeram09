@@ -48,7 +48,7 @@
 ![Shreeram's Github activity graph](https://activity-graph.herokuapp.com/graph?username=shreeram09&theme=dracula)
 </p>
 
-# Recent Activity :zap:
+## Recent Activity :zap:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
