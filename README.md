@@ -10,7 +10,6 @@
 <a href="https://linkedin.com/in/shreeram-aute"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" height="20"></a>
 <a href="https://twitter.com/shreeram_09"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="20"></a>
 
-- ⚡ Fun fact **I am learner + initiator = achiever**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
