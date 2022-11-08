@@ -28,6 +28,10 @@
 
 <p width="100%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreeram09&" alt="shreeram09" /></p>
 
+# Recent Activity :zap:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <!--
 **shreeram09/shreeram09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
