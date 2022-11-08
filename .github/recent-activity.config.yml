@@ -1,0 +1,13 @@
+settings:
+  username: "shreeram09"
+  commit_msg: "Update Recent Activity"
+  max_lines: 10
+  readme_file: "README.md"
+  disabled_events:
+    - "push"
+    - "wiki"
+  url_text: "{REPO}{ID}"
+  date:
+    timezone: "GMT+0:00"
+    text: "###### Last Updated: {DATE}"
+    format: "dS mmmm, yyyy @ HH:MMtt Z"
