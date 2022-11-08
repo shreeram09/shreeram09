@@ -28,6 +28,8 @@
 
 <p width="100%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreeram09&" alt="shreeram09" /></p>
 
+![Santosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shreeram09&theme=dracula)
+
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
