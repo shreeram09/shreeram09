@@ -9,13 +9,20 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: Update this repo's README with recent activity
+    strategy:
+      matrix:
+        node-version: [16.x,18.x]
     steps:
-     - name: repo checkout
-       uses: actions/checkout@v3
-     
-     - name: git activity readme
-       uses: Readme-Workflows/recent-activity@main
-       env:
+      - name: use nodejs
+        uses: actions/setup-node@v3
+        with:
+          node-version: "16"
+      - name: repo checkout
+        uses: actions/checkout@v3
+        
+      - name: git activity readme
+        uses: Readme-Workflows/recent-activity@main
+        env:
          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-       with:
-        CONFIG_FILE: '.github/recent-activity.config.yml'
+        with:
+          CONFIG_FILE: '.github/recent-activity.config.yml'
