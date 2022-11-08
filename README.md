@@ -56,10 +56,6 @@
 4. 📔 Created new repository [shreeram09/vanilljs_concepts](https://github.com/shreeram09/vanilljs_concepts)
 5. 📔 Created new repository [shreeram09/sb_hibernate](https://github.com/shreeram09/sb_hibernate)
 6. 📔 Created new repository [shreeram09/shreeram09](https://github.com/shreeram09/shreeram09)
-7. 
-8. 
-9. 
-10. 
 <!--RECENT_ACTIVITY:end-->
 
 <!--
