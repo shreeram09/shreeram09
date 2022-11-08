@@ -19,5 +19,3 @@ jobs:
          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
        with:
         CONFIG_FILE: '.github/recent-activity.config.yml'
-        COMMIT_MSG: "Updated README with recent activity"
-        MAX_LINES: 10
