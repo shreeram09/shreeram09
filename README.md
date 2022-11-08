@@ -49,8 +49,8 @@
 </p>
 
 ## Recent Activity :zap:
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:END-->
 
 <!--
 **shreeram09/shreeram09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
