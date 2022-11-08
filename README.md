@@ -40,7 +40,7 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/></a>
 </p>
 
-<p align="left">
+<p align="left" style="display:flex;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreeram09&layout=compact" height="200"/>
 <img src="https://github-readme-stats.vercel.app/api?username=shreeram09&show_icons=true&include_all_commits=true" height="200"/>
 <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreeram09" height="200"/>-->
