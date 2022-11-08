@@ -50,12 +50,11 @@
 
 ## Recent Activity :zap:
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [shreeram09/recent-activity](https://github.com/shreeram09/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. 🔱 Forked [shreeram09/frostming](https://github.com/shreeram09/frostming) from [frostming/frostming](https://github.com/frostming/frostming)
-3. ⭐ Starred [tssovi/grokking-the-object-oriented-design-interview](https://github.com/tssovi/grokking-the-object-oriented-design-interview)
-4. 📔 Created new repository [shreeram09/vanilljs_concepts](https://github.com/shreeram09/vanilljs_concepts)
-5. 📔 Created new repository [shreeram09/sb_hibernate](https://github.com/shreeram09/sb_hibernate)
-6. 📔 Created new repository [shreeram09/shreeram09](https://github.com/shreeram09/shreeram09)
+1. ⬆️ Pushed 1 commit(s) to [shreeram09/shreeram09](https://github.com/shreeram09/shreeram09)
+2. ⬆️ Pushed 1 commit(s) to [shreeram09/shreeram09](https://github.com/shreeram09/shreeram09)
+3. ⬆️ Pushed 1 commit(s) to [shreeram09/shreeram09](https://github.com/shreeram09/shreeram09)
+4. ⬆️ Pushed 1 commit(s) to [shreeram09/shreeram09](https://github.com/shreeram09/shreeram09)
+5. ⬆️ Pushed 1 commit(s) to [shreeram09/shreeram09](https://github.com/shreeram09/shreeram09)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
