@@ -61,7 +61,6 @@
 9. 
 10. 
 <!--RECENT_ACTIVITY:end-->
-<!--RECENT_ACTIVITY:END-->
 
 <!--
 **shreeram09/shreeram09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
