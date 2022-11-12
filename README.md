@@ -45,7 +45,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=shreeram09&show_icons=true&include_all_commits=true" height="200"/>
 <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreeram09" height="200"/>-->
   
-![Shreeram's Github activity graph](https://activity-graph.herokuapp.com/graph?username=shreeram09&theme=dracula)
+<!--![Shreeram's Github activity graph](https://activity-graph.herokuapp.com/graph?username=shreeram09&theme=dracula)-->
 </p>
 
 ## Recent Activity :zap:
