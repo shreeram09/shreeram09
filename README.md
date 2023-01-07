@@ -50,11 +50,11 @@
 
 ## Recent Activity :zap:
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 16 commit(s) to [shreeram09/java-interview-questions](https://github.com/shreeram09/java-interview-questions)
-2. ⬆️ Pushed 1 commit(s) to [shreeram09/java-interview-questions](https://github.com/shreeram09/java-interview-questions)
-3. ⬆️ Pushed 1 commit(s) to [shreeram09/shreeram09](https://github.com/shreeram09/shreeram09)
-4. ⬆️ Pushed 1 commit(s) to [shreeram09/vanillajs_concepts](https://github.com/shreeram09/vanillajs_concepts)
-5. ⬆️ Pushed 1 commit(s) to [shreeram09/vanillajs_concepts](https://github.com/shreeram09/vanillajs_concepts)
+1. ⬆️ Pushed 16 commit(s) to [shreeram09/java-interview-questions](https://github.com/shreeram09/java-interview-questions)<br>
+2. ⬆️ Pushed 1 commit(s) to [shreeram09/java-interview-questions](https://github.com/shreeram09/java-interview-questions)<br>
+3. ⬆️ Pushed 1 commit(s) to [shreeram09/shreeram09](https://github.com/shreeram09/shreeram09)<br>
+4. ⬆️ Pushed 1 commit(s) to [shreeram09/vanillajs_concepts](https://github.com/shreeram09/vanillajs_concepts)<br>
+5. ⬆️ Pushed 1 commit(s) to [shreeram09/vanillajs_concepts](https://github.com/shreeram09/vanillajs_concepts)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--
