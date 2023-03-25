@@ -6,7 +6,7 @@
 
 - 📫 How to reach me : <a href="mailto:spaute@outlook.com"><img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" height="20"></a>
 <a href="https://linkedin.com/in/shreeram-aute"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" height="20"></a>
-<a href="https://twitter.com/shreeram_09"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="20"></a>
+<!--<a href="https://twitter.com/shreeram_09"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="20"></a> -->
 
 
 <h3 align="left">Connect with me:</h3>
