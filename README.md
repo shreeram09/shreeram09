@@ -34,23 +34,6 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/></a>
 </p>
 
-<p align="left" style="display:flex;">
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreeram09&layout=compact" height="200"/>
-<img src="https://github-readme-stats.vercel.app/api?username=shreeram09&show_icons=true&include_all_commits=true" height="200"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreeram09" height="200"/>-->
-  
-<!--![Shreeram's Github activity graph](https://activity-graph.herokuapp.com/graph?username=shreeram09&theme=dracula)-->
-</p>
-
-## Recent Activity :zap:
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [shreeram09/shreeram09](https://github.com/shreeram09/shreeram09)<br>
-2. ⬆️ Pushed 1 commit(s) to [shreeram09/shreeram09](https://github.com/shreeram09/shreeram09)<br>
-3. ⬆️ Pushed 1 commit(s) to [shreeram09/shreeram09](https://github.com/shreeram09/shreeram09)<br>
-4. ⬆️ Pushed 1 commit(s) to [shreeram09/shreeram09](https://github.com/shreeram09/shreeram09)<br>
-5. ⭐ Starred [cirbuk/mason-cli](https://github.com/cirbuk/mason-cli)<br>
-<!--RECENT_ACTIVITY:end-->
-
 <!--
 **shreeram09/shreeram09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
