@@ -7,7 +7,7 @@
 <p align="left">
 <a href="mailto:spaute@outlook.com"><img align="center" src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade002_Area%20heading_Get%20more%20with%20Outlook_247x139_2X?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=247&hei=139&qlt=85" height="30" width="40"></a>
 <a href="https://linkedin.com/in/shreeram-aute"><img align="center" src="https://static.licdn.com/aero-v1/sc/h/dkgve44sisif1wgwp8ozaxu1x" height="30" width="40"></a>
-<a href="https://stackoverflow.com/users/shreeramaute" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shreeramaute" height="30"></a>
+<a href="https://stackoverflow.com/users/9639790/shreeramaute" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shreeramaute" height="30"></a>
 <a href="https://www.hackerrank.com/auteshreeram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="auteshreeram" height="30" width="40" ></a>
 <a href="https://leetcode.com/shreeramaute/" target="blank"><img align="center" src="https://assets.leetcode.com/users/leetcode/avatar_1568224780.png" alt="auteshreeram" height="30" width="40"></a>
 </p>
