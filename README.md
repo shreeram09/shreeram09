@@ -4,9 +4,6 @@ Pune, Maharashtra, India | spaute@outlook.com | [LinkedIn](https://linkedin.com/
 
 ---
 
-## 📌 GitHub Profile README (`README.md`)
-
-```markdown
 # Hi, I'm Shreeram Aute 👋
 
 ### Lead Backend Engineer • Distributed Systems • Cloud Platform Engineering
