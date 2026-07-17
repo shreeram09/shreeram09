@@ -17,7 +17,7 @@ I design high-throughput distributed systems and mission-critical microservice a
 ---
 
 <p align="left">
-  <a href="[https://linkedin.com/in/shreeram-aute](https://linkedin.com/in/shreeram-aute)"><img src="[https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/shreeram-aute">LinkedIn<img src="[https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)" alt="LinkedIn"/></a>
   <a href="mailto:spaute@outlook.com"><img src="[https://img.shields.io/badge/Email-spaute@outlook.com-c14438?logo=microsoft-outlook&style=flat-square](https://img.shields.io/badge/Email-spaute@outlook.com-c14438?logo=microsoft-outlook&style=flat-square)" alt="Email"/></a>
   <a href="[https://stackoverflow.com/users/9639790/shreeramaute](https://stackoverflow.com/users/9639790/shreeramaute)"><img src="[https://img.shields.io/badge/StackOverflow-Profile-orange?logo=stackoverflow&style=flat-square](https://img.shields.io/badge/StackOverflow-Profile-orange?logo=stackoverflow&style=flat-square)" alt="StackOverflow"/></a>
   <a href="[https://leetcode.com/shreeramaute](https://leetcode.com/shreeramaute)"><img src="[https://img.shields.io/badge/LeetCode-Profile-FFA116?logo=leetcode&style=flat-square](https://img.shields.io/badge/LeetCode-Profile-FFA116?logo=leetcode&style=flat-square)" alt="LeetCode"/></a>
