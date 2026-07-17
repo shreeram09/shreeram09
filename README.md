@@ -114,6 +114,5 @@ Tech: gRPC • Java • Protobuf • Maven
 - LinkedIn: https://linkedin.com/in/shreeram-aute  
 - Email: spaute@outlook.com  
 - StackOverflow: https://stackoverflow.com/users/9639790/shreeramaute  
-- Resume: (if you want your resume link added, paste URL)
 
 ---
