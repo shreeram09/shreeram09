@@ -1,10 +1,7 @@
-# ⚡ Shreeram Aute ⚡
 **🚀 Senior Product Engineer | Distributed Systems & Platform Architecture 🚀**  
-📍India | ✉️ spaute@outlook.com | 🌐 [LinkedIn](https://linkedin.com/in/shreeram-aute) | 🐙 [GitHub](https://github.com/shreeram09)
-
+📍India | ✉️ spaute@outlook.com | 🌐 [LinkedIn](https://linkedin.com/in/shreeram-aute) | 🧰 [Hackerrank](https://www.hackerrank.com/profile/auteshreeram)
 ---
-
-# Hi, I'm Shreeram Aute 👋
+# Hi, I'm Shreeram 👋
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=600&lines=Lead+Backend+Engineer;Distributed+Systems+Architect;Cloud+Platform+Engineer" alt="Typing SVG" />
