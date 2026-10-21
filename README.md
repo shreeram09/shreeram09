@@ -25,8 +25,8 @@ I design high-throughput distributed systems and mission-critical microservice a
 ## ⚙️ Core Competency & Tech Stack
 
 * **🏗️ Architecture & Systems Design:** Distributed systems, microservices, transactional boundaries, eventual consistency, and Hexagonal Architecture.
-* **☕ Core Backend Frameworks:** Java (11/17/21), Quarkus, Spring Boot, gRPC, Protobuf, REST APIs, Hibernate / JPA.
-* **💾 Data Layer & Performance:** SQL optimization (PostgreSQL, MySQL), data isolation, distributed transactions, and concurrency control.
+* **☕ Core Backend Frameworks:** Java , Quarkus, SpringBoot, gRPC, Protobuf, REST APIs, Hibernate / JPA.
+* **💾 Data Layer & Performance:** SQL optimization, PostgreSQL, MySQL, data isolation, distributed transactions, and concurrency control.
 * **☸️ Platform, Mesh & DevOps:** Kubernetes, Istio Service Mesh, Docker, GitLab CI/CD, Argo CD, Cloud-Native Security.
 * **📊 Telemetry & Testing Frameworks:** Distributed Tracing, OpenTelemetry, Prometheus/Grafana, BDD (Cucumber), and robust integration testing (JUnit/RestAssured).
 * **🧠 Technical Leadership:** Architectural governance, API standardization (BIAN/REST), security hardening, and technical mentorship.
