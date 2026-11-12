@@ -18,6 +18,7 @@ I design high-throughput distributed systems and mission-critical microservice a
   <a href="mailto:spaute@outlook.com"><img src="https://img.shields.io/badge/Email-spaute@outlook.com-c14438?logo=microsoft-outlook&style=flat-square" alt="Email"/></a>
   <a href="https://stackoverflow.com/users/9639790/shreeramaute"><img src="https://img.shields.io/badge/StackOverflow-Profile-orange?logo=stackoverflow&style=flat-square" alt="StackOverflow"/></a>
   <a href="https://leetcode.com/shreeramaute"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?logo=leetcode&style=flat-square" alt="LeetCode"/></a>
+  <a href="https://codeforces.com/profile/shreeram09"><img src="https://img.shields.io/badge/CodeForce-Profile-FFA116?logo=codeforce&style=flat-square" alt="CodeForce"/></a>
 </p>
 
 ---
